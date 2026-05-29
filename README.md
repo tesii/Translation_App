@@ -11,7 +11,7 @@ Under the Drawer, Edit Profile picture where you have two options:
   ## Select from the Gallery
  
  
-  a. ![image](https://github.com/user-attachments/assets/4d2cb2ff-5286-4683-b2c9-2d24aa8fdbf0)
+  ![image](https://github.com/user-attachments/assets/4d2cb2ff-5286-4683-b2c9-2d24aa8fdbf0)
     
   ## Take a Picture
   
@@ -20,8 +20,12 @@ Under the Drawer, Edit Profile picture where you have two options:
   Make your App Multilingual.      
       - At least 2 different languages should be supported.
       - Translate the whole App
+
+      ---
       
     ![image](https://github.com/user-attachments/assets/8ccb484e-a7c9-4cfd-b382-c5144766013d)
+
+    ---
 
    ![image](https://github.com/user-attachments/assets/36e3941d-2c50-4e6b-a89a-424acf95272b)
 
