@@ -22,8 +22,8 @@ Under the Drawer, Edit Profile picture where you have two options:
       - Translate the whole App
 
       ---
-      
-    ![image](https://github.com/user-attachments/assets/8ccb484e-a7c9-4cfd-b382-c5144766013d)
+   ![image](https://github.com/user-attachments/assets/8ccb484e-a7c9-4cfd-b382-c5144766013d)
+
 
     ---
 
